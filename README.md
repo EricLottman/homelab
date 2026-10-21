@@ -1,1 +1,30 @@
-IyBIb21lbGFiCgpJIHJ1biBteSBvd24gaW5mcmFzdHJ1Y3R1cmUgb24gYSBQcm94bW94IFZFIGhvc3Q6IHJlYWwgc2VydmljZXMsIGluIGRhaWx5IHByb2R1Y3Rpb24gdXNlLCBhZG1pbmlzdGVyZWQgZW5kIHRvIGVuZCBieSBtZS4KCiMjIFdoYXQgcnVucyBvbiBpdAoKLSAqKkEgcHJvZHVjdGlvbiBTYWFTKiog4oCUIENsaWVudEZveWVyIChodHRwczovL2NsaWVudGZveWVyLmNvbSksIGEgY2xpZW50IHBvcnRhbCBhbmQgaW52b2ljaW5nIHRvb2wgZm9yIGZyZWVsYW5jZXJzIHRoYXQgSSBidWlsdCBhbmQgb3BlcmF0ZS4gSXQgaXMgdGhlIG9ubHkgc2VydmljZSBleHBvc2VkIHRvIHRoZSBwdWJsaWMgaW50ZXJuZXQuCi0gKipXb3JrZmxvdyBhdXRvbWF0aW9uKiog4oCUIGFuIG44biBpbnN0YW5jZSBydW5uaW5nIGRhaWx5IGpvYnMgKGRpZ2VzdHMsIHN5bmMgY2hlY2tzLCBzY2hlZHVsZWQgcmVwb3J0cykuCi0gKipBIHJlbW90ZSBkZXZlbG9wbWVudCBlbnZpcm9ubWVudCoqIOKAlCBhIGJyb3dzZXItYmFzZWQgY29kZSBzZXJ2ZXIgcGx1cyBhIFdpbmRvd3MgZGV2L3Rlc3QgVk0sIHJlYWNoYWJsZSBmcm9tIGFueXdoZXJlIG9uIG15IHRhaWxuZXQuCi0gKipTdXBwb3J0aW5nIHV0aWxpdGllcyoqIOKAlCBmaWxlIHN5bmMgYmV0d2VlbiBteSBtYWNoaW5lcyBhbmQgYSBkYWlseSBkaWdlc3Qgc2VydmljZS4KLSBQcm9qZWN0IGFuZCBleHBlcmltZW50IG1hY2hpbmVzIHN0YXkgcG93ZXJlZCBkb3duIHdoZW4gdGhleSBhcmUgbm90IGluIGFjdGl2ZSB1c2UuCgojIyBIb3cgaXQgaXMgcnVuCgotICoqUHJpdmF0ZSBieSBkZWZhdWx0LioqIEFkbWluaXN0cmF0aXZlIHN1cmZhY2VzIGFyZSByZWFjaGFibGUgb25seSBvdmVyIFRhaWxzY2FsZS4gVGhlIHNpbmdsZSBwdWJsaWMgcGF0aCAodGhlIFNhYVMpIGdvZXMgdGhyb3VnaCBhIENsb3VkZmxhcmUgVHVubmVsIOKAlCBub3RoaW5nIGVsc2UgaXMgcHVibGlzaGVkLgotICoqT25lIGNvbnRhaW5lciBwZXIgc2VydmljZSoqLCBlYWNoIGluZGVwZW5kZW50bHkgc3RhcnRhYmxlLCBzdG9wcGFibGUsIGFuZCBkb2N1bWVudGVkLgotICoqUnVuYm9va2VkLioqIFRoZSBmdWxsIG9wZXJhdGlvbmFsIGRvY3VtZW50YXRpb24gZXhpc3RzIGFuZCBpcyBrZXB0IGN1cnJlbnQg4oCUIHByaXZhdGVseSwgb24gcHVycG9zZSAoc2VlIGJlbG93KS4KLSAqKlN0YXRlIGlzIHNuYXBzaG90dGVkIHdlZWtseSoqIHRvIG9mZi1zaXRlIHN0b3JhZ2UuCgojIyBTa2lsbHMgdGhpcyByZXByZXNlbnRzCgpQcm94bW94IFZFIGFkbWluaXN0cmF0aW9uIMK3IExYQyBhbmQgVk0gbGlmZWN5Y2xlIG1hbmFnZW1lbnQgwrcgTGludXggc3lzdGVtIGFkbWluaXN0cmF0aW9uIMK3IFRhaWxzY2FsZS1iYXNlZCBwcml2YXRlIG5ldHdvcmtpbmcgwrcgQ2xvdWRmbGFyZSBUdW5uZWwgYW5kIEROUyDCtyB3b3JrZmxvdyBhdXRvbWF0aW9uIChuOG4pIMK3IHByb2R1Y3Rpb24gZGVwbG95bWVudCBhbmQgZGF5LXRvLWRheSBvcGVyYXRpb25zIG9mIGEgbGl2ZSB3ZWIgYXBwbGljYXRpb24gwrcgYmFja3VwIGRpc2NpcGxpbmUKCiMjIFdoYXQgaXMgZGVsaWJlcmF0ZWx5IG5vdCBoZXJlCgpPcGVyYXRpb25hbCBkZXRhaWwg4oCUIGFkZHJlc3NlcywgcG9ydHMsIHZlcnNpb25zLCB0b3BvbG9neSwgYW5kIHRoZSBpbnRlcm5hbHMgb2YgdGhlIHByb2R1Y3Rpb24gYXBwbGljYXRpb24g4oCUIGlzIG5vdCBwdWJsaXNoZWQuIFRoaXMgcGFnZSBkZW1vbnN0cmF0ZXMgdGhlIGNhcGFiaWxpdHk7IHRoZSBydW5ib29rIHN0YXlzIHByaXZhdGUuCgojIyBUaGUgcHJldmlvdXMgbGFiCgpCZWZvcmUgdGhpcywgdGhlIHNhbWUgaGFyZHdhcmUgcmFuIGEgc3R1ZHkgbGFiIHNpbXVsYXRpbmcgYSBnZW5lcmljIGNvcnBvcmF0ZSBlbnRlcnByaXNlIGVudmlyb25tZW50IChXaW5kb3dzIFNlcnZlciwgQWN0aXZlIERpcmVjdG9yeSwgR3JvdXAgUG9saWN5LCBETlMvREhDUCwgV0RTKS4gVGhhdCBsYWIgd2FzIHJldGlyZWQgaW4gT2N0b2JlciAyMDI2IGFuZCBpdHMgZG9jdW1lbnRhdGlvbiBpcyBwcmVzZXJ2ZWQgaW4gW0hvbWVsYWItZG9jc10oaHR0cHM6Ly9naXRodWIuY29tL0VyaWNMb3R0bWFuL0hvbWVsYWItZG9jcykuCg==
+# Homelab
+
+I run my own infrastructure on a Proxmox VE host: real services, in daily production use, administered end to end by me.
+
+## What runs on it
+
+- **A production SaaS** — ClientFoyer (https://clientfoyer.com), a client portal and invoicing tool for freelancers that I built and operate. It is the only service exposed to the public internet.
+- **Workflow automation** — an n8n instance running daily jobs (digests, sync checks, scheduled reports).
+- **A remote development environment** — a browser-based code server plus a Windows dev/test VM, reachable from anywhere on my tailnet.
+- **Supporting utilities** — file sync between my machines and a daily digest service.
+- Project and experiment machines stay powered down when they are not in active use.
+
+## How it is run
+
+- **Private by default.** Administrative surfaces are reachable only over Tailscale. The single public path (the SaaS) goes through a Cloudflare Tunnel — nothing else is published.
+- **One container per service**, each independently startable, stoppable, and documented.
+- **Runbooked.** The full operational documentation exists and is kept current — privately, on purpose (see below).
+- **State is snapshotted weekly** to off-site storage.
+
+## Skills this represents
+
+Proxmox VE administration · LXC and VM lifecycle management · Linux system administration · Tailscale-based private networking · Cloudflare Tunnel and DNS · workflow automation (n8n) · production deployment and day-to-day operations of a live web application · backup discipline
+
+## What is deliberately not here
+
+Operational detail — addresses, ports, versions, topology, and the internals of the production application — is not published. This page demonstrates the capability; the runbook stays private.
+
+## The previous lab
+
+Before this, the same hardware ran a study lab simulating a generic corporate enterprise environment (Windows Server, Active Directory, Group Policy, DNS/DHCP, WDS). That lab was retired in October 2026 and its documentation is preserved in [Homelab-docs](https://github.com/EricLottman/Homelab-docs).
